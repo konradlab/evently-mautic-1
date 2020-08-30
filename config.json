@@ -1,0 +1,10 @@
+{
+  "name": "Evently 1",
+  "author": "Evently theme 1",
+  "authorUrl": "https://www.evently.pl",
+  "features": [
+    "page",
+    "email",
+    "form"
+  ]
+}
